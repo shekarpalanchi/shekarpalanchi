@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shekarpalanchi
 - 👀 I’m interested in ...website development
-- 🌱 I’m currently learning ...full stack development
 - 💞️ I’m looking to collaborate on ...NON
 - 📫 How to reach me ...don't contact me
 
